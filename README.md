@@ -6,7 +6,7 @@ This project is based on the work presented in the abstract submitted to the Jap
 - **Conference**: Japan Geoscience Union (JpGU) Meeting 2024
 - **Status**: Submitted and accepted, awaiting publication
 
-You can view or download the full paper in PDF format by clicking [here](https://github.com/wen-wei-055/your-repo-name/raw/main/docs/JPGU2024_paper.pdf).
+You can view or download the full paper in PDF format by clicking [here](https://github.com/wen-wei-055/CESNet-info/docs/JPGU2024_paper.pdf).
 
 The project poster is also available below:
 ![Project Poster](docs/JPGU_Poster.png)
