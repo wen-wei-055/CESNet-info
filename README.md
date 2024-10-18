@@ -6,9 +6,10 @@ This project is based on the work presented in the abstract submitted to the Jap
 - **Conference**: Japan Geoscience Union (JpGU) Meeting 2024
 - **Status**: Submitted and accepted, awaiting publication
 
-You can view or download the full paper in PDF format by clicking [here](https://github.com/wen-wei-055/CESNet-info/docs/JPGU2024_paper.pdf).
+You can view or download the full paper in PDF format by clicking [here](https://drive.google.com/file/d/1f4mxLFEzwm282NHq5urBkIgXXyVAezYm/view?usp=share_link).
 
 The project poster is also available below:
+
 ![Project Poster](docs/JPGU_Poster.png)
 
 For further updates, please refer to the [conference website](https://www.jpgu.org/en/).
@@ -26,4 +27,4 @@ Earthquakes can cause tremendous destruction, making effective early warning sys
 
 By utilizing Taiwan’s seismic data, our model demonstrated a significant improvement over traditional onsite methods, offering an average lead time extension of more than 2 seconds.
 
-For more information, you can download the [paper](docs/JPGU2024_paper.pdf).
+For more information, you can download the [paper](https://drive.google.com/file/d/1f4mxLFEzwm282NHq5urBkIgXXyVAezYm/view?usp=share_link).
