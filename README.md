@@ -1,5 +1,9 @@
-### Abstract
+## An Enhanced Earthquake Early Warning System
+
 This project is based on the work presented in the abstract submitted to the Japan Geoscience Union (JpGU) 2024. The abstract is currently under review and has not yet been published on their official website.
+
+### Abstract
+Earthquakes can cause tremendous destruction, making effective early warning systems essential. This project introduces a deep learning-based regional earthquake early warning (EEW) system that leverages multi-station data to improve both accuracy and lead time.
 
 - **Title**: *An Enhanced Earthquake Early Warning System based on Deep Learning and Multi-station Data*
 - **Authors**: **Wen-Wei Lin**, Kuan-Yu Chen
@@ -15,10 +19,6 @@ The project poster is also available below:
 For further updates, please refer to the [conference website](https://www.jpgu.org/en/).
 
 ---
-
-## An Enhanced Earthquake Early Warning System
-
-Earthquakes can cause tremendous destruction, making effective early warning systems essential. This project introduces a deep learning-based regional earthquake early warning (EEW) system that leverages multi-station data to improve both accuracy and lead time.
 
 ### Key Contributions:
 - Development of a deep learning-based model that integrates data from multiple stations for more accurate regional warnings.
