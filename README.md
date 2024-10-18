@@ -18,7 +18,7 @@ The project poster is also available below:
 For further updates, please refer to the [conference website](https://www.jpgu.org/en/).
 
 
-### demonstration
+### Demonstration
 **Earthquake Alert at Level 4 Threshold**: This image shows the system's real-time earthquake warning based on the level 4 threshold, demonstrating its response under this specific intensity.
 **PGA Regression for Earthquake Prediction**: This image presents the system's regression analysis for Peak Ground Acceleration (PGA), showcasing the model's predictive capabilities.
 
