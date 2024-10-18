@@ -17,6 +17,14 @@ The project poster is also available below:
 
 For further updates, please refer to the [conference website](https://www.jpgu.org/en/).
 
+
+### demonstration
+**Earthquake Alert at Level 4 Threshold**: This image shows the system's real-time earthquake warning based on the level 4 threshold, demonstrating its response under this specific intensity.
+**PGA Regression for Earthquake Prediction**: This image presents the system's regression analysis for Peak Ground Acceleration (PGA), showcasing the model's predictive capabilities.
+
+![level](docs/images/WG.gif)
+![regression](docs/images/WG_PGA.gif)
+
 ---
 ### Abstract
 Earthquakes can cause tremendous destruction, making effective early warning systems essential. This project introduces a deep learning-based regional earthquake early warning (EEW) system that leverages multi-station data to improve both accuracy and lead time.
